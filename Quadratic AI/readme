@@ -1,8 +1,9 @@
-## AI Analytics
+## Quadratic AI
 
-Quadratic AI was used to
+Quadratic AI was used to:
 
-- Generate SQL queries
-- Explore datasets
-- Analyze KPIs
-- Visualize trends
+- Connect to Supabase PostgreSQL
+- Generate SQL queries using natural language
+- Perform exploratory data analysis
+- Create interactive charts
+- Analyze supply chain KPIs
