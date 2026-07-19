@@ -1,0 +1,15 @@
+CSV Dataset
+      │
+      ▼
+Supabase PostgreSQL
+      │
+      ▼
+Quadratic AI
+      │
+      ├── AI Prompt
+      ├── SQL Generation
+      ├── Data Analysis
+      └── Charts
+      │
+      ▼
+Business Insights
