@@ -136,17 +136,6 @@ ORDER BY total_orders DESC;
 - KPI Reporting
 
 ---
-
-## Future Improvements
-
-- Add Power BI/Tableau dashboards
-- Build predictive demand forecasting
-- Integrate Python for advanced analytics
-- Create REST APIs for dashboard access
-- Deploy the project on the cloud
-
----
-
 ## Author
 
 **Shreya Mittal**
